@@ -1,2 +1,3 @@
 from nineFunc import nine
-from BouyaFunc import 
+from BouyaFunc import bouya
+from aotFunc import aot 
