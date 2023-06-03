@@ -1,7 +1,3 @@
-from aotFunc import aot
-from BouyaFunc import bouya
-from nineFunc import nine
+from aotFunc import add, sub, mul, div
 
-aot();
-bouya();
-nine();
+add(1 , 1);
