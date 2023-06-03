@@ -1,7 +1,3 @@
-# MyFirstRepo
+This repo developed by several kids who learn python progamming 
 
-## 1
 
-### 1.1
-
-#### 1.1.1
