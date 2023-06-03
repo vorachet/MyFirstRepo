@@ -1,7 +1,6 @@
-from BouyaFunc import bouya
-from nineFunc import nine
-from aotFunc import aot
+from BouyaFunc import add, sub, mul, div
 
-bouya()
-nine()
-aot()
+add(1 , 1)
+sub(1 , 2)
+mul(5 , 2)
+div(5 , 10)
